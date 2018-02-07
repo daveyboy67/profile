@@ -1,0 +1,78 @@
+body {
+  font-family: 'Quicksand', sans-serif;
+}
+
+h1, h2 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+
+#profile-picture {
+  width: 200px;
+  height: 200px;
+  border: 3px solid #cccccc;
+}
+.img-circle {
+  border-radius: 50%;
+}
+
+
+#jits-picture {
+  width: 200px;
+  height: 200px;
+  border: 3px solid #cccccc;
+}
+
+#drums-picture {
+  width: 200px;
+  height: 200px;
+  border: 3px solid #cccccc;
+}
+
+#sushi-picture {
+  width: 200px;
+  height: 200px;
+  border: 3px solid #cccccc;
+}
+
+#container {
+  width: 600px;
+  margin: 30px auto;
+}
+
+.card-text-centre {
+  text-align: center;
+}
+
+.card-text {
+  text-align: left;
+}
+
+.btn-red {
+    background-color: #DD5555;
+    color: white;
+    font-weight: 500;
+    padding: 10px;
+    border-radius: 4px;
+}
+.social {
+
+}
+.social ul {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 60px;
+}
+
+.social ul li {
+  display: inline;
+  margin: 20px;
+}
+
+
+
+
+#food td {
+  padding-top: 0;
+}
+
